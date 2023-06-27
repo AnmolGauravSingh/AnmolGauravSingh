@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AnmolGauravSingh
-- 👀 I’m interested in Web Dev, AI and ML
-- 🌱 I’m currently learning ML , Backend
+- 👀 I’m interested in AI and Ml
 - 📫 How to reach me anmolgauravsingh@gmail.com
-- Linkedin : https://www.linkedin.com/in/anmol-gaurav-1b1535228/
+- Linkedin : https://www.linkedin.com/in/anmol-gaurav-singh/
 
 <!---
 AnmolGauravSingh/AnmolGauravSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
